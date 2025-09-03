@@ -1,1 +1,1 @@
-# FLARE-Fallback-Logic-for-Active-Radiation-Events-
+FLARE explores low-power, hardware-encoded fallback and recovery logic for satellites (specifically CubeSats). We implemented an FSM-based design on the Nexys A7 FPGA (with plans to migrate toward Zynq SoCs). The aim is to scale down from the multi-GPU ground based solutions (consuming massive power with minutes of time delay) to onboard milliwatt-level logic with microsecond response.
